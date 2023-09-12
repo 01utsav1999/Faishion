@@ -185,7 +185,7 @@ body{
   font-weight: bold;
 }
 .about_us{
-  background-image: url('/worldwide.avif');
+  background-image: url('https://www.freepik.com/free-photos-vectors/dotted-world-map-white-background');
   background-color: white;
   display: flex;
   justify-content: space-between;
