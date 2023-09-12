@@ -92,7 +92,7 @@ body{
   align-items: center;
 }
 .creative{
-  background: linear-gradient(to right,black,pink);
+  /* background: linear-gradient(to right,black,pink); */
   background-image: url('/img1.jpeg');
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-size: contain;
